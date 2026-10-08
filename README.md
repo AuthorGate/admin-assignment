@@ -1,6 +1,6 @@
 To submit your assignment to this repo, you need to do the following:
 
-1- Forks this Repo: The external user visits this repository on GitHub and clicks the Fork button to create a copy of it under their own account.
+1- Fork this Repo: The external user visits this repository on GitHub and clicks the Fork button to create a copy of it under their own account.
 
 2- Upload the File: In their forked version, they click Add file -> Upload files, drop their file in, and commit the changes.
 
