@@ -6,4 +6,4 @@ To submit your assignment to this repo, you need to do the following:
 
 3- Submit a Pull Request (PR): The user clicks the Pull requests tab in the original repository and submits a new PR from their fork.
 
-Note: The name of your submitted file should by containing your full name only.
+Note: The name of your submitted file should be containing your full name only.
